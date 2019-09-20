@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://afiedojez.7ay.ma/sitemap.xml
